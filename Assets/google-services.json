@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1063912444738",
+    "firebase_url": "https://farmlifenew-5ba80-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "farmlifenew-5ba80",
+    "storage_bucket": "farmlifenew-5ba80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063912444738:android:f83babfc5de391a2bfeedb",
+        "android_client_info": {
+          "package_name": "com.bao.farmlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm1KGFr55cZPPPcF4awBQ0n5LnUXxBBjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
